@@ -1170,17 +1170,6 @@ Here's the comprehensive table accounting for all the tickets, including a featu
 | Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-384  | SriniKrish_InitiativePERF:- COMC: Post Production Defects-2023 |                               |       |
 | Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-254  | 2023 GBS NA Tech KLO support for Frontend Shared   |                               |       |
 | Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-322  | GBS Backend Optimization, Platform Redundancy      |                               |       |
-| Sivas
-
-
-Continuing from where we left off, here is the complete table:
-
-### Backlog Issues (continued)
-
-#### By Team Member and Priority
-
-| Assignee                       | Priority    | Issue ID        | Issue Title                                        | Feature                       | Count |
-|--------------------------------|-------------|-----------------|----------------------------------------------------|-------------------------------|-------|
 | Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-334  | Oracle upgrade to 19c                              |                               |       |
 | Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-339  | 2023 IT Security ASM                               |                               |       |
 | Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-354  | Build Out Commerce Hub Core Omnichannel Payments   |                               |       |
