@@ -1,35 +1,25 @@
 
-Endorsements for Myself:
+Steps to Create Postman Mock Servers
 
-Dr. Oliver Degnan
-Position: Supervisor (CIO)
-LinkedIn Profile: www.linkedin.com/in/drdegnan/
-Contact: 1 (414) 207-2345
-Special Commendation: "Manish's exceptional contribution and dedication are instrumental in resolving THE company-wide challenge."Jagan Jevaji
-
-Position: Peer (Architect / Director)
-Contact: +1 (734) 846-1234
-Special Commendation: "We are lucky to have a leader like Manish."A Gehani
-
-Position: Supervisor (VP)
-LinkedIn Profile: www.linkedin.com/in/ajaygehanisprofile/
-Contact: 1 (678) 699-8901
-Notable Remark: "Manish is a dynamite problem solver."Sam Esfahani
-
-Position: Supervisor (CIO)
-LinkedIn Profile: www.linkedin.com/in/sam-esfahani-ab49a03/
-Notable Remark: "Manish has shown remarkable testing leadership. Never seen anything like this ..."Ed Robinson
-
-Position: Supervisor (COO)
-LinkedIn Profile: www.linkedin.com/in/edwardlrobinson/
-Notable Remark: "Manish is the definition of Testing."Greg Chi
-
-Position: Supervisor (CIO)
-LinkedIn Profile: www.linkedin.com/in/gregory-chi/
-Notable Remark: "Manish has shown tremendous testing leadership under chaos and remote work."Augusto Garcia
-
-Test Lead
-Special Commendation: "My memories of working under Manish were the best of my working career."Should you require any additional information or wish to contact any of my references directly, please let me know.Best regards,
-Manish
-
-  
+Prerequisites
+Postman account
+Basic understanding of APIs and mock servers
+Create a Collection for Mocking
+Create a new Postman collection.
+Add requests to the collection, representing the endpoints you want to mock.
+For each request, save an example response by selecting “Send” and then “Save as Example” in the response pane.
+Retrieve the Collection ID
+Use the Postman API to get the collection ID for your collection.
+(You can find the collection ID in Postman or by making a GET request to https://api.getpostman.com/collections).
+Create a Mock Server
+Make a POST request to https://api.getpostman.com/mocks with the collection ID.
+Configure mock server details (e.g., name, delay). c. Retrieve the mock server URL from the response. (e.g. : https://7252c281-c002-4bd3-a71a-bf1b6986b378.mock.pstmn.io/get)
+Replace Base URLs in Requests
+Replace the base URL of your saved requests with the mock server URL.
+Now your requests will be directed to the mock server.
+Test the Mock Server
+Send requests to the mock server endpoints.
+Postman will respond with the saved examples you defined earlier.
+Customize responses or add dynamic behavior using Postman’s scripting features.
+Tear Down the Mock Server
+When done, delete the mock server using the Postman API. (https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a)
