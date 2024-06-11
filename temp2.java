@@ -1109,5 +1109,66 @@ Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-339	2023 IT Security ASM
 Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-354	Build Out Commerce Hub Core Omnichannel Payments		
 Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-344	GBS B - Walmart Health and Wellness		
 
-|
+Here's the comprehensive table accounting for all the tickets, including a feature column, and ensuring all tickets are represented. We'll include both current sprint and backlog tickets.
+
+### Current Sprint (Active Issues)
+
+#### By Team Member and Priority
+
+| Assignee                       | Priority    | Issue ID        | Issue Title                                        | Feature                       | Count |
+|--------------------------------|-------------|-----------------|----------------------------------------------------|-------------------------------|-------|
+| Chugh, Kritika (Alpharetta)    | High        | GBSCAFDEV-66    | Product Health Dashboard                           | Alpha Version                 | 2     |
+| Chugh, Kritika (Alpharetta)    | High        | GBSCAFADT-42    | FDPOS Wait Functions                               | Maintenance                   |       |
+| DURAIKRISHNAN, S. (Chennai)    | High        | GBSCAFADT-94    | Commerce Hub - On Boarding Flow                    | End 2 End Automation          | 5     |
+| DURAIKRISHNAN, S. (Chennai)    | High        | GBSCAFDEV-596   | Chrome Browser issue fix - Windows                 | GBSCAF Development In Java    |       |
+| DURAIKRISHNAN, S. (Chennai)    | Medium      | GBSCAFDEV-292   | Jenkins Job Integration                            | Test environment support      |       |
+| Jeyaraman, Jeyalakshmi (Chennai)| Medium     | GBSCAFADT-36   | DRD UI - POC flow Automation                       |                               | 2     |
+| Jeyaraman, Jeyalakshmi (Chennai)| Not Triaged| GBSCAFDEV-517  | Scenario integration in Extent report              | FDPOS GBSCAF Adoption & Automation |       |
+| K, Jai Kumar (Chennai)         | High        | GBSCAFADT-45    | Hosted Pages Automation                            | API and UI Scripts Parallel Execution | 2     |
+| K, Jai Kumar (Chennai)         | Medium      | GBSCAFDEV-294   | Multithreading Implementation                      | FDPOS GBSCAF Adoption & Automation |       |
+| P, Jeeva (Chennai)             | High        | GBSCAFADT-94    | Commerce Hub - On Boarding Flow                    | End 2 End Automation          | 2     |
+| P, Jeeva (Chennai)             | High        | GBSCAFADT-42    | FDPOS Wait Functions                               | Maintenance                   |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-197  | Move Mastercard MAS and MDFS Simulator to AWS Cloud| Test environment support      | 3     |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-217  | 2023 Test Optimization                             | Automation and Tools Integration |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-299  | 2023 Test Optimization                             | Automation and Tools Integration |       |
+
+### Backlog Issues
+
+#### By Team Member and Priority
+
+| Assignee                       | Priority    | Issue ID        | Issue Title                                        | Feature                       | Count |
+|--------------------------------|-------------|-----------------|----------------------------------------------------|-------------------------------|-------|
+| Chugh, Kritika (Alpharetta)    | Not Triaged | GBSCAFADT-250   | Adoption ticket for wait issue in test cases       | Adoption New                  | 1     |
+| DURAIKRISHNAN, S. (Chennai)    | Not Triaged | GBSCAFADT-108   | Commerce Hub - Enable Flow                         | End 2 End Automation          | 13    |
+| DURAIKRISHNAN, S. (Chennai)    | Not Triaged | GBSCAFDEV-738   | Avoid Overloading Reports Memory                   | GBSCAF Development In Java    |       |
+| DURAIKRISHNAN, S. (Chennai)    | Not Triaged | GBSCAFDEV-769   | PDF Validation                                     | GBSCAF Development In Java    |       |
+| DURAIKRISHNAN, S. (Chennai)    | Not Triaged | GBSCAFDEV-828   | GBSCAF Mainframe - Adding testdata folder to resources |                               |       |
+| DURAIKRISHNAN, S. (Chennai)    | Not Triaged | GBSCAFDEV-830   | Parallel Execution in GBSCAF                       | GBSCAF Development In Java    |       |
+| DURAIKRISHNAN, S. (Chennai)    | Not Triaged | GBSCAFDEV-833   | Report Portal - API                                | GBSCAF Development In Java    |       |
+| DURAIKRISHNAN, S. (Chennai)    | Not Triaged | GBSCAFDEV-842   | FDPOS - Firewall and Proxy                         | FDPOS GBSCAF Adoption & Automation |       |
+| DURAIKRISHNAN, S. (Chennai)    | Not Triaged | GBSCAFDEV-608   | Cucumber Parameterization                          | GBSCAF Development In Java    |       |
+| DURAIKRISHNAN, S. (Chennai)    | Medium      | GBSCAFDEV-292   | Jenkins Job Integration                            | Test environment support      |       |
+| DURAIKRISHNAN, S. (Chennai)    | High        | GBSCAFADT-94    | Commerce Hub - On Boarding Flow                    | End 2 End Automation          |       |
+| DURAIKRISHNAN, S. (Chennai)    | High        | GBSCAFDEV-596   | Chrome Browser issue fix - Windows                 | GBSCAF Development In Java    |       |
+| Jeyaraman, Jeyalakshmi (Chennai)| Medium     | GBSCAFADT-36    | DRD UI - POC flow Automation                       |                               | 1     |
+| K, Jai Kumar (Chennai)         | Not Triaged | GBSCAFADT-57    | ReWork on Folder Structure GBSCAF with the latest Changes |                               | 1     |
+| K, Jai Kumar (Chennai)         | High        | GBSCAFADT-45    | Hosted Pages Automation                            | API and UI Scripts Parallel Execution |       |
+| P, Jeeva (Chennai)             | Not Triaged | GBSCAFADT-37    | Mail - POP to SMTP/IMAP                            | Maintenance                   | 3     |
+| P, Jeeva (Chennai)             | Not Triaged | GBSCAFADT-282   | Merchant Manager application                       | Adoption New                  |       |
+| P, Jeeva (Chennai)             | Not Triaged | GBSCAFDEV-739   | Module wise test cycle structure in Zephyr         | GBSCAF Development In Java    |       |
+| P, Jeeva (Chennai)             | High        | GBSCAFADT-42    | FDPOS Wait Functions                               | Maintenance                   |       |
+| P, Jeeva (Chennai)             | High        | GBSCAFADT-94    | Commerce Hub - On Boarding Flow                    | End 2 End Automation          |       |
+| P, Jeeva (Chennai)             | Medium      | GBSCAFDEV-294   | Multithreading Implementation                      | FDPOS GBSCAF Adoption & Automation |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-197  | Move Mastercard MAS and MDFS Simulator to AWS Cloud| Test environment support      | 21    |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-217  | 2023 Test Optimization                             | Automation and Tools Integration |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-299  | 2023 Test Optimization                             | Automation and Tools Integration |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-374  | Replatform Compass Frontend to North Frontend      |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-249  | Digital Disbursements - Core Platform Build        |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-379  | DDP Enhance User Experience and Capabilities       |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-327  | Build A2 layer for GDS download server             |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-229  | Performance Engineering Task - Continuous PT <AWS - JMeter> |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-384  | SriniKrish_InitiativePERF:- COMC: Post Production Defects-2023 |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-254  | 2023 GBS NA Tech KLO support for Frontend Shared   |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-322  | GBS Backend Optimization, Platform Redundancy      |                               |       |
+| Sivas
 
