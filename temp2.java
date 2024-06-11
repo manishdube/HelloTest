@@ -1172,3 +1172,54 @@ Here's the comprehensive table accounting for all the tickets, including a featu
 | Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-322  | GBS Backend Optimization, Platform Redundancy      |                               |       |
 | Sivas
 
+
+Continuing from where we left off, here is the complete table:
+
+### Backlog Issues (continued)
+
+#### By Team Member and Priority
+
+| Assignee                       | Priority    | Issue ID        | Issue Title                                        | Feature                       | Count |
+|--------------------------------|-------------|-----------------|----------------------------------------------------|-------------------------------|-------|
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-334  | Oracle upgrade to 19c                              |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-339  | 2023 IT Security ASM                               |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-354  | Build Out Commerce Hub Core Omnichannel Payments   |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-344  | GBS B - Walmart Health and Wellness                |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-349  | GBS-B Walmart Project Sterling - Multi Purse Wallet|                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-359  | Commerce Hub Resiliency                            |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-364  | Payeezy Migration - Settlement                     |                               |       |
+| Sivasamy, Vasanth Kumar (Bengaluru)| High    | GBSCAFDEV-369  | Reg II - Create Credential Enrichment VAS          |                               |       |
+| Rachamadugu, Raghu Vamsi (Bengaluru)| Medium  | GBSCAFDEV-290  | DNS Request setup for NonProd and Stg account      | Test environment support      | 8     |
+| Rachamadugu, Raghu Vamsi (Bengaluru)| Medium  | GBSCAFDEV-292  | Jenkins Job Integration                            | Test environment support      |       |
+| Rachamadugu, Raghu Vamsi (Bengaluru)| High    | GBSCAFDEV-295  | Jenkins sunset and migration to cloud/GitLab       | Test environment support      |       |
+| Rachamadugu, Raghu Vamsi (Bengaluru)| Medium  | GBSCAFDEV-273  | Jmeter to Zephyr Scale integration - Report        | Test environment support      |       |
+| Rachamadugu, Raghu Vamsi (Bengaluru)| High    | GBSCAFDEV-309  | Tuffin Exception Request - Commerhub               | Test environment support      |       |
+| Rachamadugu, Raghu Vamsi (Bengaluru)| High    | GBSCAFDEV-431  | Configuration File Re-Structuring                  | Test environment support      |       |
+| Rachamadugu, Raghu Vamsi (Bengaluru)| High    | GBSCAFDEV-440  | Digital.AI---Release Setup                         | Test environment support      |       |
+| Rachamadugu, Raghu Vamsi (Bengaluru)| Medium  | GBSCAFDEV-464  | Nexus Hosted Repo setup for QE                     | Test environment support      |       |
+| Rachamadugu, Raghu Vamsi (Bengaluru)| Not Triaged | GBSCAFDEV-322 | GBS Backend Optimization, Platform Redundancy      |                               |       |
+| P, Jeeva (Chennai)             | Not Triaged | GBSCAFADT-37    | Mail - POP to SMTP/IMAP                            | Maintenance                   | 3     |
+| P, Jeeva (Chennai)             | Not Triaged | GBSCAFADT-282   | Merchant Manager application                       | Adoption New                  |       |
+| P, Jeeva (Chennai)             | Not Triaged | GBSCAFDEV-739   | Module wise test cycle structure in Zephyr         | GBSCAF Development In Java    |       |
+| P, Jeeva (Chennai)             | High        | GBSCAFADT-42    | FDPOS Wait Functions                               | Maintenance                   |       |
+| P, Jeeva (Chennai)             | High        | GBSCAFADT-94    | Commerce Hub - On Boarding Flow                    | End 2 End Automation          |       |
+| P, Jeeva (Chennai)             | Medium      | GBSCAFDEV-294   | Multithreading Implementation                      | FDPOS GBSCAF Adoption & Automation |       |
+| R, Damien Matthew (Chennai)    | Not Triaged | GBSCAFDEV-658   | GBSCAF Mainframe - PTS ACK file gen                | GBSCAF Mainframe Python       | 3     |
+| R, Damien Matthew (Chennai)    | Not Triaged | GBSCAFDEV-802   | GBSCAF Python - Take data from excel               | GBSCAF Mainframe Python       |       |
+| R, Damien Matthew (Chennai)    | Not Triaged | GBSCAFDEV-806   | GBSCAF Python - Share data across test scenarios   | GBSCAF Mainframe Python       |       |
+| Sankar, Balachander (Chennai)  | Not Triaged | GBSCAFDEV-714   | GBSCAF Mainframe - PTC function automation         | GBSCAF Mainframe Python       | 2     |
+| Sankar, Balachander (Chennai)  | Not Triaged | GBSCAFDEV-809   | GBSCAF Python - Zephyr integration                 | GBSCAF Mainframe Python       |       |
+| Dube, Manish (Alpharetta)      | Not Triaged | GBSCAFRD-52     | Ideation for Test Data Management Using AWS        | GBSCAF as an AWS service      | 1     |
+| Katta, Mani Bhargavi (Berkeley Heights) | Medium | GBSCAFDEV-565 | QualityNEXT Landing Page                           | QualityNEXT Webpage           | 1     |
+| Wong, Allison (Berkeley Heights) | Not Triaged | GBSCAFDEV-542  | Smoke scenario preparation for release             | GBSCAF Development In Java    | 1     |
+| Mrachek, Joshua (Alpharetta)   | Not Triaged | GBSCAFDEV-273   | Jmeter to Zephyr Scale integration - Report        | Test environment support      | 1     |
+| Karuppiah, Sanguth Thalaivan (Chennai) | Not Triaged | GBSCAFADT-148 | Tech Support to Adoption Team                      | GBSCAF Adoption New           | 3     |
+| Karuppiah, Sanguth Thalaivan (Chennai) | Not Triaged | GBSCAFADT-286 | TeleCheck - Imaging-lookup application             | GBSCAF Adoption New           |       |
+| Karuppiah, Sanguth Thalaivan (Chennai) | Not Triaged | GBSCAFDEV-770  | Zephyr - Custom Fields - Field value Optimization  | Zephyr Automation Integration |       |
+| Veerabahu, Arun Subramanian (Chennai) | Not Triaged | GBSCAFDEV-294 | Multithreading Implementation                      | FDPOS GBSCAF Adoption & Automation | 2     |
+| Veerabahu, Arun Subramanian (Chennai) | Not Triaged | GBSCAFDEV-517  | Scenario integration in Extent report              | FDPOS GBSCAF Adoption & Automation |       |
+| Veerabahu, Arun Subramanian (Chennai) | Not Triaged | GBSCAFADT-57   | ReWork on Folder Structure GBSCAF with the latest Changes | Maintenance                   | 1     |
+| Pandey, Avinash (Alpharetta)   | Not Triaged | GBSCAFRD-34     | AWS Account Setup and Access Configuration         | GBSCAF as an AWS service      | 1     |
+| Simmons, Kyle (Alpharetta)     | Not Triaged | GBSCAFRD-31     | FMK - Node                                         | GBSCAF as an AWS service      | 1     |
+
+This table now represents all the tickets, includes a feature column, and ensures every ticket is accounted for. If you need further modifications or any additional details, please let me know!
