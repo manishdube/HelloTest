@@ -1,0 +1,327 @@
+
+
+
+
+
+Line	Assignee	Priority	Issue ID	Issue Title	Feature
+1	Chugh, Kritika (Alpharetta)	High	GBSCAFDEV-66	Product Health Dashboard	Alpha Version
+2	Chugh, Kritika (Alpharetta)	High	GBSCAFADT-42	FDPOS Wait Functions	Maintenance
+3	DURAIKRISHNAN, S. (Chennai)	High	GBSCAFADT-94	Commerce Hub - On Boarding Flow	End 2 End Automation
+4	Jeyaraman, Jeyalakshmi (Chennai)	Medium	GBSCAFADT-36	DRD UI - POC flow Automation	
+5	P, Jeeva (Chennai)	Not Triaged	GBSCAFADT-37	Mail - POP to SMTP/IMAP	Maintenance
+6	K, Jai Kumar (Chennai)	Not Triaged	GBSCAFADT-46	Need to Parameterize the user defined Values in YAML File	
+7	Chugh, Kritika (Alpharetta)	High	GBSCAFADT-42	FDPOS Wait Functions	Maintenance
+8	K, Jai Kumar (Chennai)	High	GBSCAFADT-45	Hosted Pages Automation	API and UI Scripts Parallel Execution
+9	Kandaswamy, Arumugam (Alpharetta)	High	GBSCAFDEV-197	Move Mastercard MAS and MDFS Simulator to AWS Cloud	Test environment support
+10	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-217	2023 Test Optimization	Automation and Tools Integration
+11	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-299	2023 Test Optimization	Automation and Tools Integration
+12	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-254	2023 GBS NA Tech KLO support for Frontend Shared	
+13	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-322	GBS Backend Optimization, Platform Redundancy and Resiliency	
+14	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-334	Oracle upgrade to 19c	
+15	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-339	2023 IT Security ASM	
+16	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-354	Build Out Commerce Hub Core Omnichannel Payments	
+17	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-344	GBS B - Walmart Health and Wellness	
+18	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-349	GBS-B Walmart Project Sterling - Multi Purse Wallet	
+19	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-359	Commerce Hub Resiliency	
+20	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-364	Payeezy Migration - Settlement	
+21	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-369	Reg II - Create Credential Enrichment VAS	
+22	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-374	Replatform Compass Frontend to North Frontend	
+23	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-249	Digital Disbursements - Core Platform Build	
+24	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-379	DDP Enhance User Experience and Capabilities	
+25	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-327	Build A2 layer for GDS download server	
+26	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-229	Performance Engineering Task - Continuous PT	
+27	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-384	COMC: Post Production Defects-2023	
+28	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-417	2023 Test Optimization	
+29	Sivasamy, Vasanth Kumar (Bengaluru)	High	GBSCAFDEV-394	2023 GBS NA Tech KLO support for Frontend Shared	
+30	Dube, Manish (Alpharetta)	Not Triaged	GBSCAFDEV-595	PDF Validation	
+31	DURAIKRISHNAN, S. (Chennai)	Not Triaged	GBSCAFDEV-635	Jmeter Test Case Enhancements	
+32	Gupta, Vipul (Alpharetta)	Medium	GBSCAFDEV-692	Zephyr Integration for Performance Tests	
+33	DURAIKRISHNAN, S. (Chennai)	Not Triaged	GBSCAFDEV-603	Integration Tests for Microservices	
+34	Gupta, Vipul (Alpharetta)	Medium	GBSCAFDEV-464	Nexus Hosted Repo setup for QE	Test environment support
+35	Kannan, Gopalsamy (Chennai)	Not Triaged	GBSCAFDEV-666	GBSCAF Python- Git Lab Adoption	Gitlab Adoption
+36	Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-714	GBSCAF Mainframe - PTC function automation	GBSCAF Mainframe Python
+37	Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-809	GBSCAF Python - Zephyr integration	GBSCAF Mainframe Python
+38	Karuppiah, Sanguth Thalaivan (Chennai)	Not Triaged	GBSCAFADT-268	Testing of Selenium 4 - Mobile	
+39	DURAIKRISHNAN, S. (Chennai)	Not Triaged	GBSCAFDEV-730	Excel validation utils	GBSCAF Development In Java
+40	DURAIKRISHNAN, S. (Chennai)	Not Triaged	GBSCAFDEV-738	Avoid Overloading Reports Memory	GBSCAF Development In Java
+41	Gupta, Vipul (Alpharetta)	Medium	GBSCAFDEV-293	Configuration File Re-Structuring	Test environment support
+42	Chugh, Kritika (Alpharetta)	High	GBSCAFADT-250	Adoption ticket for wait issue in test cases - Fluent Wait seems to be not working as expected	Adoption Tickets for Zumrud
+43	DURAIKRISHNAN, S. (Chennai)	Not Triaged	GBSCAFDEV-596	Chrome Browser issue fix - Windows	GBSCAF Development In Java
+44	Dube, Manish (Alpharetta)	Not Triaged	GBSCAFRD-52	Ideation for Test Data Management Using AWS	GBSCAF as an AWS service
+45	Allison Wong (Berkeley Heights)	Not Triaged	GBSCAFDEV-542	Smoke scenario preparation for release	GBSCAF Development In Java
+46	Mani Bhargavi Katta (Berkeley Heights)	Medium	GBSCAFDEV-565	QualityNEXT Landing Page	QualityNEXT Webpage
+47	Arun Subramanian Veerabahu (Chennai)	Not Triaged	GBSCAFDEV-294	Multithreading Implementation	FDPOS GBSCAF Adoption & Automation
+48	Arun Subramanian Veerabahu (Chennai)	Not Triaged	GBSCAFDEV-517	Scenario integration in Extent report	FDPOS GBSCAF Adoption & Automation
+49	Arun Subramanian Veerabahu (Chennai)	Not Triaged	GBSCAFADT-57	ReWork on Folder Structure GBSCAF with the latest Changes	Maintenance
+50	Pandey, Avinash (Alpharetta)	Not Triaged	GBSCAFRD-34	AWS Account Setup and Access Configuration	GBSCAF as an AWS service
+51	Simmons, Kyle (Alpharetta)	Not Triaged	GBSCAFRD-31	FMK - Node	GBSCAF as an AWS service
+52	Karuppiah, Sanguth Thalaivan (Chennai)	Not Triaged	GBSCAFADT-175	Not able to open the report through the Jenkins Job	Bugs Tracker Feature
+53	P, Jeeva (Chennai)	High	GBSCAFDEV-739	Module wise test cycle structure in Zephyr	GBSCAF Development In Java
+54	DURAIKRISHNAN, S. (Chennai)	Not Triaged	GBSCAFDEV-762	Zephyr integration with GQSXML framework	GBSCAF Development In Java
+55	DURAIKRISHNAN, S. (Chennai)	Medium	GBSCAFDEV-738	Avoid Overloading Reports Memory	GBSCAF Development In Java
+56	DURAIKRISHNAN, S. (Chennai)	High	GBSCAF
+
+Line	Assignee	Priority	Issue ID	Issue Title	Feature
+56	DURAIKRISHNAN, S. (Chennai)	High	GBSCAFDEV-708	Feature File Level Handling The Test Data in Excel	GBSCAF Development In Java
+57	DURAIKRISHNAN, S. (Chennai)	Medium	GBSCAFDEV-760	Sauce Lab Updates	GBSCAF Development In Java
+58	Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-714	GBSCAF Mainframe - PTC function automation	GBSCAF Mainframe Python
+59	Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-809	GBSCAF Python - Zephyr integration	GBSCAF Mainframe Python
+60	R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-658	GBSCAF Mainframe - PTS ACK file gen	GBSCAF Mainframe Python
+61	R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-802	GBSCAF Python - Take data from excel	GBSCAF Mainframe Python
+62	R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-806	GBSCAF Python - Share data across test scenarios	GBSCAF Mainframe Python
+63	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-431	Configuration File Re-Structuring	Test environment support
+64	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-440	Digital.AI---Release Setup	Test environment support
+65	Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-464	Nexus Hosted Repo setup for QE	Test environment support
+66	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+67	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+68	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+69	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+70	Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+71	Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+72	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+73	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+74	Sivasamy, Vasanth Kumar (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+75	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+76	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+77	Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+78	Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+79	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+80	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+81	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+82	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+83	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+84	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+85	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+
+Line	Assignee	Priority	Issue ID	Issue Title	Feature
+56	DURAIKRISHNAN, S. (Chennai)	High	GBSCAFDEV-708	Feature File Level Handling The Test Data in Excel	GBSCAF Development In Java
+57	DURAIKRISHNAN, S. (Chennai)	Medium	GBSCAFDEV-760	Sauce Lab Updates	GBSCAF Development In Java
+58	Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-714	GBSCAF Mainframe - PTC function automation	GBSCAF Mainframe Python
+59	Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-809	GBSCAF Python - Zephyr integration	GBSCAF Mainframe Python
+60	R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-658	GBSCAF Mainframe - PTS ACK file gen	GBSCAF Mainframe Python
+61	R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-802	GBSCAF Python - Take data from excel	GBSCAF Mainframe Python
+62	R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-806	GBSCAF Python - Share data across test scenarios	GBSCAF Mainframe Python
+63	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-431	Configuration File Re-Structuring	Test environment support
+64	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-440	Digital.AI---Release Setup	Test environment support
+65	Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-464	Nexus Hosted Repo setup for QE	Test environment support
+66	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+67	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+68	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+69	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+70	Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+71	Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+72	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+73	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+74	Sivasamy, Vasanth Kumar (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+75	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+76	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+77	Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+78	Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+79	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+80	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+81	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+82	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+83	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+84	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+85	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+
+Line	Assignee	Priority	Issue ID	Issue Title	Feature
+19	Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-714	GBSCAF Mainframe - PTC function automation	GBSCAF Mainframe Python
+20	Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-809	GBSCAF Python - Zephyr integration	GBSCAF Mainframe Python
+21	R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-658	GBSCAF Mainframe - PTS ACK file gen	GBSCAF Mainframe Python
+22	R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-802	GBSCAF Python - Take data from excel	GBSCAF Mainframe Python
+23	R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-806	GBSCAF Python - Share data across test scenarios	GBSCAF Mainframe Python
+24	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-431	Configuration File Re-Structuring	Test environment support
+25	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-440	Digital.AI---Release Setup	Test environment support
+26	Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-464	Nexus Hosted Repo setup for QE	Test environment support
+27	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+28	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+29	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+30	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+31	Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+32	Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+33	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+34	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+35	Sivasamy, Vasanth Kumar (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+36	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+37	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+38	Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+39	Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+40	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+41	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+42	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+43	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+44	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+45	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+46	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+47	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+48	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+49	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+50	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+51	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+52	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+53	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+54	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+55	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+56	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+57	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+58	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+59	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+60	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+61	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+62	Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+63	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+64	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+65	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+66	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commer
+
+Line	Assignee	Priority	Issue ID	Issue Title	Feature
+66	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+67	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+68	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+69	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+70	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+71	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+72	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+73	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+74	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+75	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+76	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+77	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+78	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+79	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+80	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+81	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+82	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+83	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+84	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+85	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+86	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+87	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+88	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+89	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+90	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+91	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+92	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+93	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+94	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+95	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+96	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+97	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+98	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+99	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+100	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+101	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+102	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+103	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+104	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+105	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+106	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+107	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+108	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+109	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+110	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+111	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+112	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+113	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+114	Veerab
+
+Line	Assignee	Priority	Issue ID	Issue Title	Feature
+114	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+115	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+116	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+117	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+118	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+119	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+120	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+121	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+122	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+123	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+124	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+125	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+126	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+127	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+128	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+129	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+130	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+131	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+132	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+133	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+134	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+135	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+136	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+137	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+138	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+139	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+140	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+141	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+142	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+143	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+144	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+145	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+146	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+147	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+148	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+149	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+150	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+151	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+152	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+153	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+154	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+155	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+156	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+157	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+158	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+159	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+160	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+161	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+162	Veerabahu, Arun Subramanian (Chennai)	Medium	
+
+
+Line	Assignee	Priority	Issue ID	Issue Title	Feature
+162	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+163	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+164	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+165	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+166	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+167	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+168	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+169	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+170	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+171	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+172	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+173	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+174	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+175	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+176	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+177	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+178	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+179	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+180	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+181	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+182	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+183	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+184	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+185	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+186	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+187	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+188	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+189	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+190	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+191	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+192	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+193	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+194	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+195	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+196	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+197	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+198	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+199	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+200	P, Jeeva (Chennai)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+201	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+202	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+203	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+204	Veerabahu, Arun Subramanian (Chennai)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+205	Veerabahu, Arun Subramanian (Chennai)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+206	Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+
