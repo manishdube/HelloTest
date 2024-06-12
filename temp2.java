@@ -1261,5 +1261,29 @@ Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-292	Jenkins Job Integratio
 Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-295	Jenkins sunset and migration to cloud/GitLab	Test environment support	
 Rachamadugu, Raghu Vamsi
 
-
+Assignee	Priority	Issue ID	Issue Title	Feature	Count
+Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-292	Jenkins Job Integration	Test environment support	
+Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-295	Jenkins sunset and migration to cloud/GitLab	Test environment support	
+Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support	
+Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support	
+Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-431	Configuration File Re-Structuring	Test environment support	
+Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-440	Digital.AI---Release Setup	Test environment support	
+Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-464	Nexus Hosted Repo setup for QE	Test environment support	
+R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-658	GBSCAF Mainframe - PTS ACK file gen	GBSCAF Mainframe Python	3
+R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-802	GBSCAF Python - Take data from excel	GBSCAF Mainframe Python	
+R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-806	GBSCAF Python - Share data across test scenarios	GBSCAF Mainframe Python	
+Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-714	GBSCAF Mainframe - PTC function automation	GBSCAF Mainframe Python	2
+Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-809	GBSCAF Python - Zephyr integration	GBSCAF Mainframe Python	
+Dube, Manish (Alpharetta)	Not Triaged	GBSCAFRD-52	Ideation for Test Data Management Using AWS	GBSCAF as an AWS service	1
+Katta, Mani Bhargavi (Berkeley Heights)	Medium	GBSCAFDEV-565	QualityNEXT Landing Page	QualityNEXT Webpage	1
+Wong, Allison (Berkeley Heights)	Not Triaged	GBSCAFDEV-542	Smoke scenario preparation for release	GBSCAF Development In Java	1
+Mrachek, Joshua (Alpharetta)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support	1
+Karuppiah, Sanguth Thalaivan (Chennai)	Not Triaged	GBSCAFADT-148	Tech Support to Adoption Team	GBSCAF Adoption New	3
+Karuppiah, Sanguth Thalaivan (Chennai)	Not Triaged	GBSCAFADT-286	TeleCheck - Imaging-lookup application	GBSCAF Adoption New	
+Karuppiah, Sanguth Thalaivan (Chennai)	Not Triaged	GBSCAFDEV-770	Zephyr - Custom Fields - Field value Optimization	Zephyr Automation Integration	
+Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-294	Multithreading Implementation	FDPOS GBSCAF Adoption & Automation	2
+Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-517	Scenario integration in Extent report	FDPOS GBSCAF Adoption & Automation	
+Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFADT-57	ReWork on Folder Structure GBSCAF with the latest Changes	Maintenance	1
+Pandey, Avinash (Alpharetta)	Not Triaged	GBSCAFRD-34	AWS Account Setup and Access Configuration	GBSCAF as an AWS service	1
+Simmons, Kyle (Alpharetta)	Not Triaged	GBSCAFRD-31	FMK - Node	GBSCAF as an AWS service	1
 
