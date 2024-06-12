@@ -20,7 +20,25 @@ DURAIKRISHNAN, S. (Chennai)	Medium	GBSCAFDEV-738	Avoid Overloading Reports Memor
 DURAIKRISHNAN, S. (Chennai)	High	GBSCAFDEV-708	Feature File
 
 
-
+Assignee	Priority	Issue ID	Issue Title	Feature
+DURAIKRISHNAN, S. (Chennai)	High	GBSCAFDEV-708	Feature File Level Handling The Test Data in Excel	GBSCAF Development In Java
+DURAIKRISHNAN, S. (Chennai)	Medium	GBSCAFDEV-760	Sauce Lab Updates	GBSCAF Development In Java
+Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-714	GBSCAF Mainframe - PTC function automation	GBSCAF Mainframe Python
+Sankar, Balachander (Chennai)	Not Triaged	GBSCAFDEV-809	GBSCAF Python - Zephyr integration	GBSCAF Mainframe Python
+R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-658	GBSCAF Mainframe - PTS ACK file gen	GBSCAF Mainframe Python
+R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-802	GBSCAF Python - Take data from excel	GBSCAF Mainframe Python
+R, Damien Matthew (Chennai)	Not Triaged	GBSCAFDEV-806	GBSCAF Python - Share data across test scenarios	GBSCAF Mainframe Python
+Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-431	Configuration File Re-Structuring	Test environment support
+Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-440	Digital.AI---Release Setup	Test environment support
+Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-464	Nexus Hosted Repo setup for QE	Test environment support
+Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-295	Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup	Test environment support
+Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-411	QualityNEXT Landing Page	QualityNEXT Webpage
+Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-290	DNS Request setup for NonProd and Stg account	Test environment support
+Rachamadugu, Raghu Vamsi (Bengaluru)	Medium	GBSCAFDEV-292	Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab	Test environment support
+Rachamadugu, Raghu Vamsi (Bengaluru)	High	GBSCAFDEV-309	Tuffin Exception Request - Commerhub	Test environment support
+Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-314	GBSCAF Release 1.1	FDPOS GBSCAF Adoption & Automation
+Rachamadugu, Raghu Vamsi (Bengaluru)	Not Triaged	GBSCAFDEV-295	Def
 
 
 GBSCAF-DEV_1.5_Sprint 1585 issues -  ACTIVE
