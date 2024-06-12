@@ -1,3 +1,28 @@
+
+
+Assignee	Priority	Issue ID	Issue Title	Feature
+Dube, Manish (Alpharetta)	Not Triaged	GBSCAFRD-52	Ideation for Test Data Management Using AWS	GBSCAF as an AWS service
+Katta, Mani Bhargavi (Berkeley Heights)	Medium	GBSCAFDEV-565	QualityNEXT Landing Page	QualityNEXT Webpage
+Wong, Allison (Berkeley Heights)	Not Triaged	GBSCAFDEV-542	Smoke scenario preparation for release	GBSCAF Development In Java
+Mrachek, Joshua (Alpharetta)	Not Triaged	GBSCAFDEV-273	Jmeter to Zephyr Scale integration - Report	Test environment support
+Karuppiah, Sanguth Thalaivan (Chennai)	Not Triaged	GBSCAFADT-148	Tech Support to Adoption Team	GBSCAF Adoption New
+Karuppiah, Sanguth Thalaivan (Chennai)	Not Triaged	GBSCAFADT-286	TeleCheck - Imaging-lookup application	GBSCAF Adoption New
+Karuppiah, Sanguth Thalaivan (Chennai)	Not Triaged	GBSCAFDEV-770	Zephyr - Custom Fields - Field value Optimization	Zephyr Automation Integration
+Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-294	Multithreading Implementation	FDPOS GBSCAF Adoption & Automation
+Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFDEV-517	Scenario integration in Extent report	FDPOS GBSCAF Adoption & Automation
+Veerabahu, Arun Subramanian (Chennai)	Not Triaged	GBSCAFADT-57	ReWork on Folder Structure GBSCAF with the latest Changes	Maintenance
+Pandey, Avinash (Alpharetta)	Not Triaged	GBSCAFRD-34	AWS Account Setup and Access Configuration	GBSCAF as an AWS service
+Simmons, Kyle (Alpharetta)	Not Triaged	GBSCAFRD-31	FMK - Node	GBSCAF as an AWS service
+Karuppiah, Sanguth Thalaivan (Chennai)	Not Triaged	GBSCAFADT-175	Not able to open the report through the Jenkins Job	Bugs Tracker Feature
+P, Jeeva (Chennai)	High	GBSCAFDEV-739	Module wise test cycle structure in Zephyr	GBSCAF Development In Java
+DURAIKRISHNAN, S. (Chennai)	Not Triaged	GBSCAFDEV-762	Zephyr integration with GQSXML framework	GBSCAF Development In Java
+DURAIKRISHNAN, S. (Chennai)	Medium	GBSCAFDEV-738	Avoid Overloading Reports Memory	GBSCAF Development In Java
+DURAIKRISHNAN, S. (Chennai)	High	GBSCAFDEV-708	Feature File
+
+
+
+
+
 GBSCAF-DEV_1.5_Sprint 1585 issues -  ACTIVE
 Chugh, Kritika (Alpharetta)'s avatarDube, Manish (Alpharetta)'s avatarDURAIKRISHNAN, S. (Chennai)'s avatarGupta, Vipul (Alpharetta)'s avatarJeyaraman, Jeyalakshmi (Chennai)'s avatar
 +13
