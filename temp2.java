@@ -1,537 +1,3 @@
-Raw:
-
-Skip to main contentSkip to sidebar
-Linked Applications
-
-Jira
-Dashboards
-Projects
-Issues
-Tempo
-Boards
-Plans
-Capacity Tracker
-Tests
-Pivot Reports
-More
-Create
-Search
-Give feedback to Atlassian
-Help
-Administration
-User profile for Dube, Manish (Alpharetta)
-QE Overall Board
-Backlog
-Active sprints
-Reports
-
-Pivot ReportBoard
-QE Overall Board
-Backlog
-QUICK FILTERS:DamienveeraSanguthGopalBalaDuraiJeevaVeluRaghuManishElanaBhargaviKritikaOnly My IssuesRecently Updated
-VERSIONSFEATURES
-GBSCAF-DEV_1.5_Sprint 1585 issues -  ACTIVE
-Chugh, Kritika (Alpharetta)'s avatarDube, Manish (Alpharetta)'s avatarDURAIKRISHNAN, S. (Chennai)'s avatarGupta, Vipul (Alpharetta)'s avatarJeyaraman, Jeyalakshmi (Chennai)'s avatar
-+13
-View summary of assigned work
-20/May/24 8:53 AM•31/May/24 8:53 AM
-View linked pages
-Issue Type: Task
-Priority: High
-GBSCAFDEV-66
-Product Health Dashboard
-Alpha Version of Product Health Dashboard
-Assignee: Chugh, Kritika (Alpharetta) 
-Issue Type: Task
-Priority: High
-GBSCAFADT-94
-Commerce Hub - On Boarding Flow
-Commerce Hub End 2 End Automation
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Task
-Priority: Medium
-GBSCAFADT-36
-DRD UI - POC flow Automation
-Assignee: Jeyaraman, Jeyalakshmi (Chennai) 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFADT-37
-Mail - POP to SMTP/IMAP
-GBSCAF | Maintenance
-Assignee: P, Jeeva (Chennai) 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFADT-46
-Need to Parameterize the user defined Values in YAML File
-Assignee: K, Jai Kumar (Chennai) 
-Issue Type: Bug
-Priority: Not Triaged
-GBSCAFADT-42
-FDPOS : Adoption of the correct wait functions is missing from the test code.
-Assignee: Chugh, Kritika (Alpharetta) 
-Issue Type: Task
-Priority: High
-GBSCAFADT-45
-Hosted Pages Automation - API and UI Scripts Parallel Execution
-Assignee: K, Jai Kumar (Chennai) 
-Issue Type: Story
-Priority: Critical
-GBSCAFDEV-197
-Move Mastercard MAS and MDFS Simulator to AWS Cloud
-Test environment support
-Assignee: Kandaswamy, Arumugam (Alpharetta) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-217
-GBSPERF:- [PR22055995] FTS - Operate & Maintain 2023 [uCom DB Partitioning]
-GBSPERF:- FTS - Operate & Maintain 2023
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-299
-GBSPERF:- [PR22056595] 2023 Test Optimization - Automation and Tools Integration [SnapPay]
-GBSPERF:- 2023 Test Optimization - Automation and Tools Integration
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-254
-GBSPERF:- [PR22042907] 2023 GBS NA Tech KLO support for Frontend Shared [BAU]
-GBSPERF:- 2023 GBS NA Tech KLO support for Frontend Shared
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-322
-GBSPERF:- [PR23018077] GBS Backend Optimization, Platform Redundancy and Resiliency (ApigeeX proxy, dashboards, perf testing) [WALMART]
-GBSPERF:- GBS Backend Optimization, Platform Redundancy and Resiliency (ApigeeX proxy, dashboards, perf testing) - WALMART
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-334
-GBSPERF:- [PR19005926] Oracle upgrade to 19c - Product Development & Engineering Apps [Baseline testing with Payeezy API [FAPI]
-GBSPERF:- Oracle upgrade to 19c - Product Development & Engineering Apps
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-339
-GBSPERF:- [PR22063303] 2023 IT Security ASM Front End and TransArm and GG [BAU Ph1+Ph3]
-GBSPERF:- 2023 IT Security ASM Front End and TransArm and GG
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-354
-GBSPERF:- [PR22022390] Build Out Commerce Hub Core Omnichannel Payments [ComHub]
-GBSPERF:- Build Out Commerce Hub Core Omnichannel Payments
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-344
-GBSPERF:- [PR22022417] GBS B - Walmart Health and Wellness [WALMART]
-GBSPERF:- GBS B - Walmart Health and Wellness
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-349
-GBSPERF:- [PR22008946] GBS-B Walmart Project Sterling - Multi Purse Wallet with iBotta [WALMART]
-GBSPERF:- GBS-B Walmart Project Sterling - Multi Purse Wallet with iBotta
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-359
-GBSPERF:- [PR22024109] Commerce Hub Resiliency [ComHub]
-GBSPERF:- Commerce Hub Resiliency
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-364
-GBSPERF:- [PR21053622] Payeezy Migration - Settlement [Payeezy]
-GBSPERF:- Payeezy Migration - Settlement
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-369
-GBSPERF:- [PR23009931] Reg II - Create Credential Enrichment VAS [BAU]
-GBSPERF:- Reg II - Create Credential Enrichment VAS
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-374
-GBSPERF:- [PR20000258] Replatform Compass Frontend to North Frontend, Retiring Stratus hardware [Compass]
-GBSPERF:- Replatform Compass Frontend to North Frontend, Retiring Stratus hardware
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-249
-GBSPERF:- [PR20001201] Digital Disbursements - Core Platform Build [DDP]
-GBSPERF:- Digital Disbursements - Core Platform Build
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-379
-GBSPERF:- [PR23014894] DDP Enhance User Experience and Capabilities [DDP]
-GBSPERF:- DDP Enhance User Experience and Capabilities
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-327
-GBSPERF:- [PR22012834] Build A2 layer for GDS download server [GDS]
-GBSPERF:- Build A2 layer for GDS download server
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-229
-GBSPERF:- [PR23078838] Performance Engineering Task - Continuous PT <AWS - JMeter>
-GBSPERF:- 2023 Test Optimization - Automation and Tools Integration
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-384
-SRINI_KRISH_Initiative_PERF:- [PR22055760] COMC: Post Production Defects-2023
-SriniKrish_InitiativePERF:- COMC: Post Production Defects-2023
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-389
-SRINI_KRISH_Initiative_PERF:- [PR2***] Collaboration Portal and Implementation Engine
-SriniKrish_InitiativePERF:- Collaboration Portal and Implementation Engine
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Task
-Priority: High
-GBSCAFDEV-273
-Jmeter to Zephyr Scale integration - Report
-Assignee: Mrachek, Joshua (Alpharetta) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-290
-DNS Request setup for NonProd and Stg account
-Test environment support
-Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
-Issue Type: Task
-Priority: Medium
-GBSCAFDEV-292
-Need assistant in setting up Jenkins job integration from GitLab (Cert Stability Jobs) and push updated files to GitLab
-Test environment support
-Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
-Issue Type: Task
-Priority: Medium
-GBSCAFDEV-294
-Multithreading implementation based on given condition
-FDPOS GBSCAF Adoption & Automation
-Assignee: P, Jeeva (Chennai) 
-Issue Type: Task
-Priority: High
-GBSCAFADT-108
-Commerce Hub - Enable Flow
-Commerce Hub End 2 End Automation
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-309
-Tuffin Exception Request - Commerhub
-Test environment support
-Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-314
-GBSCAF Release 1.1
-FDPOS GBSCAF Adoption & Automation
-Assignee: P, Jeeva (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-295
-Def Requirement: Usecase7 Jenkins sunset and migration to cloud/GitLab runner setup
-Test environment support
-Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
-Issue Type: Story
-Priority: High
-GBSCAFDEV-411
-GBSPERF:- [PR21050164] Mandate - Update keys to TDES Encryption Standard
-GBSPERF:- Ingenico Class A & HEM to FDPOS
-Assignee: Sivasamy, Vasanth Kumar (Bengaluru) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-431
-Configuration File Re-Structuring
-Arun's Misc Review Tasks
-Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-440
-Digital.AI---Release Setup
-Test environment support
-Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-464
-Nexus Hosted Repo setup for QE
-Test environment support
-Assignee: Gupta, Vipul (Alpharetta) 
-Issue Type: Story
-Priority: Medium
-GBSCAFADT-148
-Tech Support to Adoption Team
-GBSCAF Adoption New
-Assignee: Karuppiah, Sanguth Thalaivan (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-517
-Scenario integration in Extent report
-FDPOS GBSCAF Adoption & Automation
-Assignee: P, Jeeva (Chennai) 
-Issue Type: Defect
-Priority: High
-GBSCAFADT-175
-Not able to open the report through the Jenkins Job
-Bugs Tracker Feature
-Assignee: S P, Kolunthuvelu (Chennai) 
-Issue Type: Task
-Priority: Medium
-GBSCAFDEV-542
-Smoke scenario preparation for release
-GBSCAF Development In Java
-Assignee: Wong, Allison (Berkeley Heights) 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFRD-34
-GBSCAF as an AWS service | 1 | AWS Account Setup and Access Configuration
-R&D - GBSCAF: Explore the Service Virtualization feature within APIGateway service in AWS
- 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFRD-36
-GBSCAF as an AWS service | 3 | Configure Nexus Integration for Docker Image Management
- 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFRD-37
-GBSCAF as an AWS service | 4 | Selenium Test Environment Configuration on AWS
- 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFRD-38
-GBSCAF as an AWS service | 5 | Test Data Management with Amazon DynamoDB
- 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFRD-39
-GBSCAF as an AWS service | 6 | Test Artifact Storage and Reporting with Amazon S3
- 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFRD-40
-GBSCAF as an AWS service | 7 | Monitoring and Logging with Amazon CloudWatch
- 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFRD-42
-GBSCAF as an AWS service | 9 | Integrate GitLab for Source Control and CI/CD
- 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-565
-QualityNEXT Landing Page
-QualityNEXT Webpage
-Assignee: Katta, Mani Bhargavi (Berkeley Heights) 
-Issue Type: Task
-Priority: Medium
-GBSCAFADT-250
-Adoption ticket for wait issue in test cases - Fluent Wait seems to be not working as expected.
-Adoption Tickets for Zumrud
-Assignee: Chugh, Kritika (Alpharetta) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-596
-Chrome Browser issue fix - Windows
-GBSCAF Development In Java
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFRD-52
-GBSCAF as an AWS service | 0.4 | Ideation for Test Data Management Using AWS
-GBSCAF as an AWS service | 0 | Research and Evaluation for Serverless Selenium Testing Solution
-Assignee: Dube, Manish (Alpharetta) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-608
-Cucumber Parameterization for Test data yaml file
-GBSCAF Development In Java
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFADT-268
-Testing of Selenium 4 - Mobile
-Assignee: Kannan, Gopalsamy (Chennai) 
-Issue Type: Task
-Priority: Medium
-GBSCAFDEV-623
-FDPOS - Karate Zephyr integration
-FDPOS GBSCAF Adoption & Automation
-Assignee: P, Jeeva (Chennai) 
-Issue Type: Task
-Priority: High
-GBSCAFDEV-658
-GBSCAF Mainframe - PTS ACK file gen
-GBSCAF Mainframe Python
-Assignee: R, Damien Matthew (Chennai) 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFDEV-666
-GBSCAF Python- Git Lab Adoption
-Gitlab Adoption
-Assignee: Kannan, Gopalsamy (Chennai) 
-Issue Type: Story
-Priority: High
-GBSCAFADT-282
-Merchant Manager application
-GBSCAF Adoption New
-Assignee: Karuppiah, Sanguth Thalaivan (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-708
-Feature File Level Handling The Test Data in Excel
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Story
-Priority: High
-GBSCAFADT-286
-TeleCheck - Imaging-lookup application
-GBSCAF Adoption New
-Assignee: Karuppiah, Sanguth Thalaivan (Chennai) 
-Issue Type: Task
-Priority: High
-GBSCAFDEV-714
-GBSCAF Mainframe - PTC function automation
-GBSCAF Mainframe Python
-Assignee: Sankar, Balachander (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-736
-Failure Screen Shot Renaming
-GBSCAF Development In Java
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-738
-Avoid Overloading Reports Memory
-GBSCAF Development In Java
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Task
-Priority: Medium
-GBSCAFDEV-739
-Module wise test cycle structure in Zephyr
-GBSCAF Development In Java
-Assignee: P, Jeeva (Chennai) 
-Issue Type: Task
-Priority: High
-GBSCAFDEV-757
-GBSCAF Mainframe - PTS Reject validation.
-GBSCAF Mainframe Python
-Assignee: R, Damien Matthew (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-760
-Sauce Lab Updates
-GBSCAF Development In Java
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Task
-Priority: Medium
-GBSCAFDEV-762
-Zephyr integration with GQSXML framework
-GBSCAF Development In Java
-Assignee: P, Jeeva (Chennai) 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFDEV-766
-Saucelab enhancements - Test case name, scenario name for test runs in Saucelab
-GBSCAF Development In Java
-Assignee: Dube, Manish (Alpharetta) 
-Issue Type: Story
-Priority: High
-GBSCAFADT-298
-HDC_PCProduct _ DIS Application
-GBSCAF Adoption New
-Assignee: Karuppiah, Sanguth Thalaivan (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-769
-PDF Validation
-GBSCAF Development In Java
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Story
-Priority: Not Triaged
-GBSCAFDEV-770
-Zephyr - Custom Fields - Field value Optimization for Automated and Automated Candidate fields
-Zephyr Automation Integration
-Assignee: Karuppiah, Sanguth Thalaivan (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-802
-GBSCAF Python - Take data from excel and consider each row as a Scenario
-GBSCAF Mainframe Python
-Assignee: R, Damien Matthew (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-806
-GBSCAF Python - Share data across test scenarios
-GBSCAF Mainframe Python
-Assignee: R, Damien Matthew (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-809
-GBSCAF Python - Zephyr integration
-GBSCAF Mainframe Python
-Assignee: Sankar, Balachander (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-823
-Excel validation utils
-GBSCAF Development In Java
-Assignee: S P, Kolunthuvelu (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-824
-Disable save password popup on Chrome & Edge
-GBSCAF Development In Java
-Assignee: Kannan, Gopalsamy (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-828
-GBSCAF Mainframe - Adding testdata folder to resources
- 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-830
-Parallel Execution in GBSCAF
-GBSCAF Development In Java
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-833
-Report Portal - API
-GBSCAF Development In Java
-Assignee: DURAIKRISHNAN, S. (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-834
-GBSCAF Python - Integrating UMF Log Validator with the framework
-GBSCAF Python
-Assignee: R, Damien Matthew (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-835
-Postman Service Virtualization
-Async automation execution updates to Zephy
-Assignee: Dube, Manish (Alpharetta) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-839
-PingId Automation
-GBSCAF Development In Java
-Assignee: S P, Kolunthuvelu (Chennai) 
-Issue Type: Task
-Priority: Not Triaged
-GBSCAFDEV-842
-FDPOS - Firewall and Proxy
-FDPOS GBSCAF Adoption & Automation
-Assignee: DURAIKRISHNAN, S. (Chennai) 
 Backlog206 issues - Create sprint	
 Issue Type: Epics
 Priority: Not Triaged
@@ -1019,7 +485,614 @@ GBSCAFDEV-268
 To migrate existing TASQWeb scripts to GBSCAF
 GBSCAF Automation Adoption for TASQWeb
 Assignee: Kurmi, Satyanarayan (Chennai) 
-Show all issues (106)
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-93
+Backend apps & Change release Zephyr Onboarding
+Zephyr Adoption Signup
+Assignee: Mussadiq, Hassan (King of Prussia) 
+Issue Type: Epics
+Priority: High
+QES-17
+Commerce Hub | GBSCAF Adoption & Automation
+Assignee: Chugh, Kritika (Alpharetta) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-110
+ATH TR31 Support
+Astrex Transaction Simulator
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-111
+VISA TR31 - Key Checksum Issue
+Astrex Transaction Simulator
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-112
+ETC Plus and CDCPU Spec updates for 23.10 install
+Astrex Transaction Simulator
+ 
+Issue Type: Story
+Priority: Medium
+GBSCAFADT-113
+Astrex Tech Refresh - Windows 2012 EOL
+Astrex Transaction Simulator
+Assignee: Mussadiq, Hassan (King of Prussia) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-114
+AN 6567 Enhancing the Automated Load Communication Key Process
+Astrex Transaction Simulator
+ 
+Issue Type: Bug
+Priority: Not Triaged
+GBSCAFADT-115
+PROSA - CAVVResultCode returned for non 3D secure transaction
+Astrex Transaction Simulator
+ 
+Issue Type: Story
+Priority: Medium
+GBSCAFADT-116
+ASTREX implementation on Commerce Hub
+Astrex Transaction Simulator
+Assignee: Christopher, Belvin (Alpharetta) 
+Issue Type: Task
+Priority: Medium
+GBSCAFDEV-298
+Report portal should create single instance for multi-threaded executions
+Assignee: P, Jeeva (Chennai) 
+Issue Type: Story
+Priority: Medium
+GBSCAFADT-117
+ISO Global - DE55 TAG DF3F support required
+Astrex Transaction Simulator
+ 
+Issue Type: Story
+Priority: Medium
+GBSCAFADT-118
+AMEX - SafeKey Testing
+Astrex Transaction Simulator
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-119
+Rapid Connect: Field Override Updates
+Astrex Transaction Simulator
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFDEV-321
+Zephyr Demo
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-138
+DSUCSE Zephyr Onboarding
+Zephyr Adoption Signup
+Assignee: Isaac Miller, Solomon (Chennai) 
+Issue Type: Task
+Priority: Medium
+GBSCAFDEV-409
+Report portal demo to FDPOS
+Assignee: DURAIKRISHNAN, S. (Chennai) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFDEV-416
+GIFT - PBC Settlement UI Application
+GBSCAF Adoption New
+Assignee: Karuppiah, Sanguth Thalaivan (Chennai) 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFDEV-427
+Arun's Misc Review Tasks _ GBSCAF-DEV_Sprint 6
+ 
+Issue Type: Task
+Priority: Medium
+GBSCAFDEV-430
+Logger Management
+Assignee: DURAIKRISHNAN, S. (Chennai) 
+Issue Type: Epics
+Priority: Medium
+QES-19
+Accessibility Testing
+Assignee: Chugh, Kritika (Alpharetta) 
+Issue Type: Epics
+Priority: Not Triaged
+QES-20
+AWS Enablement
+ 
+Issue Type: Epics
+Priority: Not Triaged
+QES-21
+Mobile Testing
+ 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFDEV-433
+Exploring Report Portal
+GBSCAF | Maintenance
+Assignee: DURAIKRISHNAN, S. (Chennai) 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFDEV-439
+Postman Onboarding--Need Scope
+Test environment support
+Assignee: Gupta, Vipul (Alpharetta) 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFDEV-445
+QuickSights with Q enterprise subscription setup
+Test environment support
+Assignee: Gupta, Vipul (Alpharetta) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-142
+Rapid Connect Zephyr Onboarding
+Zephyr Adoption Signup
+Assignee: Sugumaran, Bhuvaneswari (Chennai) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-143
+CHTS Zephyr Onboarding
+Zephyr Adoption Signup
+Assignee: Mussadiq, Hassan (King of Prussia) 
+Issue Type: Story
+Priority: Medium
+GBSCAFADT-144
+CH UI and Mobile Test Automation
+GBSCAF Adoption New
+Assignee: Karuppiah, Sanguth Thalaivan (Chennai) 
+Issue Type: Defect
+Priority: High
+GBSCAFDEV-474
+FDPOS | Existing path of the File TestngSingleThread.xml causes BUILD FAILURE
+FDPOS GBSCAF Adoption & Automation
+Assignee: Chugh, Kritika (Alpharetta)1
+Issue Type: Defect
+Priority: High
+GBSCAFDEV-475
+Spark Report is not generating and gives 404 Not found error
+FDPOS GBSCAF Adoption & Automation
+Assignee: Chugh, Kritika (Alpharetta)2
+Issue Type: Bug
+Priority: Low
+GBSCAFADT-146
+FDPOS | Browser gets opened for all the API test running.
+FDPOS GBSCAF Adoption & Automation
+Assignee: Chugh, Kritika (Alpharetta) 
+Issue Type: Task
+Priority: High
+GBSCAFADT-147
+Improvement | target and source version should be dynamically picked up from the node on which the tests are run regardless of the java version installed on the node/computer.
+FDPOS GBSCAF Adoption & Automation
+Assignee: Chugh, Kritika (Alpharetta)1
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFDEV-477
+Infra Setup for Astrix migration
+Test environment support
+Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
+Issue Type: Story
+Priority: High
+GBSCAFADT-152
+CH Mobile Automation
+GBSCAF Adoption New
+Assignee: DURAIKRISHNAN, S. (Chennai) 
+Issue Type: Story
+Priority: High
+GBSCAFDEV-485
+Allure Reporting in GBSCAF framework to replace the current Extent reporting
+GBSCAF Automation Framework | Reporting
+Assignee: Chugh, Kritika (Alpharetta) 
+Issue Type: Task
+Priority: Medium
+GBSCAFADT-167
+Commerce Hub Mobile Automation
+Assignee: DURAIKRISHNAN, S. (Chennai) 
+Issue Type: Task
+Priority: Medium
+GBSCAFDEV-507
+Emailing Extent Report
+FDPOS GBSCAF Adoption & Automation
+Assignee: DURAIKRISHNAN, S. (Chennai) 
+Issue Type: Story
+Priority: High
+GBSCAFADT-170
+Astrex - Field Validations Review and Support
+Astrex Transaction Simulator
+Assignee: Mussadiq, Hassan (King of Prussia) 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFADT-171
+ASTREX Simulator implementation for Com Hub testing needs
+Astrex Transaction Simulator
+Assignee: Christopher, Belvin (Alpharetta) 
+Issue Type: Epics
+Priority: High
+QES-24
+Release 1.2 Features Bucket
+Assignee: Chugh, Kritika (Alpharetta) 
+Issue Type: Task
+Priority: High
+GBSCAFADT-172
+ASTREX EMULATOR for Com Hub testing needs
+Astrex Transaction Simulator
+Assignee: Christopher, Belvin (Alpharetta) 
+Issue Type: Story
+Priority: Critical
+GBSCAFADT-176
+DDP - CAF Adoption
+GBSCAF Adoption New
+Assignee: Karuppiah, Sanguth Thalaivan (Chennai) 
+Issue Type: Bug
+Priority: Not Triaged
+GBSCAFDEV-515
+cleanup the vulnerable jars being Pushed from GBSCAF1.2 release
+Bugs Tracker Feature
+ 
+Issue Type: Task
+Priority: Medium
+GBSCAFADT-185
+Windows Patching Scripts process & documentation
+Jenkins Environment Maintenance & Support
+Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
+Issue Type: Task
+Priority: Medium
+GBSCAFADT-188
+Documentation: Jenkins Pipelines Creation / Maintenance & Support
+Jenkins Environment Maintenance & Support
+Assignee: Chugh, Kritika (Alpharetta) 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFADT-189
+Documentation: Jenkins New Application Onboarding Process (Firewalls etc.)
+Jenkins Environment Maintenance & Support
+Assignee: Chugh, Kritika (Alpharetta) 
+Issue Type: Task
+Priority: Medium
+GBSCAFADT-190
+Documentation: Jenkins New Agents Configuration steps and process
+Jenkins Environment Maintenance & Support
+Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
+Issue Type: Task
+Priority: Medium
+GBSCAFADT-191
+Jenkins - Service Now Updates
+Jenkins Environment Maintenance & Support
+Assignee: Mussadiq, Hassan (King of Prussia) 
+Issue Type: Task
+Priority: Medium
+GBSCAFADT-192
+Jenkins BCIC & DR Updates
+Jenkins Environment Maintenance & Support
+ 
+Issue Type: Task
+Priority: Medium
+GBSCAFADT-193
+Jenkins Migration to GitLab
+Jenkins Environment Maintenance & Support
+Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
+Issue Type: Task
+Priority: Medium
+GBSCAFADT-194
+Jenkins EC2 Instance transfer from Old to New AWS Subscription
+Jenkins Environment Maintenance & Support
+Assignee: Rachamadugu, Raghu Vamsi (Bengaluru) 
+Issue Type: Task
+Priority: Medium
+GBSCAFADT-196
+Commerce Hub project Zephyr Configuration update request
+Zephyr Support
+Assignee: Mussadiq, Hassan (King of Prussia) 
+Issue Type: Story
+Priority: Medium
+GBSCAFADT-210
+Astrex Windows Patching Validation - 2024
+Astrex Transaction Simulator
+Assignee: Mussadiq, Hassan (King of Prussia) 
+Issue Type: Task
+Priority: Medium
+GBSCAFADT-211
+Jan 2024 Windows Patching - Validation
+Astrex Transaction Simulator
+Assignee: Chakrabarty, Soumen (Pune) 
+Issue Type: Task
+Priority: Medium
+GBSCAFDEV-528
+To hide the Access token IDs in the config.yaml
+GBSCAF | Maintenance
+Assignee: Chugh, Kritika (Alpharetta) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-215
+Clarity Project Creation
+GBSTECH - Astrex Hardware Refresh 2023
+Assignee: Mussadiq, Hassan (King of Prussia) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-216
+Portfolio Engagement and Assesment + Estimate Record Creation
+GBSTECH - Astrex Hardware Refresh 2023
+Assignee: Mussadiq, Hassan (King of Prussia) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-218
+Effort Estimations / Tasks Creation / Resources & Task Assignment etc
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-219
+Project Approval - MyFiserv
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-220
+Architecture Review with Cloud Architect for Zoning
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-221
+Process Reviews / Approach to adopt
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-222
+AWS Cloud Intake form Submission
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-223
+Cyber guard rail questionnaire - Intake submission
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-224
+Cyber guard rail - Review
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-225
+Cloud - Permit to Plan approval (1st Review)
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-226
+Cloud - Architecture Setup Planning & Review
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-227
+Architecture Review with UL (Vendor)
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-228
+Architecture Diagram finalization
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-229
+Cloud - Permit to Plan approval (2nd Review)
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFADT-230
+User Access - Planning
+GBSTECH - Astrex Hardware Refresh 2023
+ 
+Issue Type: Story
+Priority: Medium
+GBSCAFDEV-529
+GBSCAF Mainframe Python
+Assignee: Sankar, Balachander (Chennai) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFDEV-561
+Digital-AI
+FDPOS GBSCAF Adoption & Automation
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFRD-35
+GBSCAF as an AWS service | 2 | Initial AWS Services Setup
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFRD-41
+GBSCAF as an AWS service | 8 | Security and Compliance Setup
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFDEV-562
+Digital AI Dummy Story 1
+Digital AI Dummy Feature 1
+ 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFDEV-563
+Quality Next Wireframe
+Assignee: Katta, Mani Bhargavi (Berkeley Heights) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-244
+Paysecure Zephyr Onboarding
+Zephyr Adoption Signup
+Assignee: Mussadiq, Hassan (King of Prussia) 
+Issue Type: Epics
+Priority: High
+QES-25
+Entropy Migration
+Assignee: Kannan, Gopalsamy (Chennai) 
+Issue Type: Epics
+Priority: Not Triaged
+QES-26
+2024 Test Optimization - Automation and Tools Integration
+ 
+Issue Type: Epics
+Priority: Medium
+QES-27
+PR23078838 - GBSTECH Postman Tool Support 2024
+ 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFADT-247
+CH team Framework support to add new features in it
+Assignee: S P, Kolunthuvelu (Chennai) 
+Issue Type: Task
+Priority: Medium
+GBSCAFDEV-582
+GBSCAF Mainframe Python Documentation
+GBSCAF Mainframe Python
+Assignee: Sankar, Balachander (Chennai) 
+Issue Type: Epics
+Priority: High
+QES-28
+Adoption Team Support Tickets 2024
+Assignee: Chugh, Kritika (Alpharetta) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFRD-46
+GBSCAF as an AWS service | 3.5 | Create Dockerfile for Selenium Testing Environment
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFRD-47
+GBSCAF as an AWS service | 3.6 | Build and Push Docker Image for Selenium Testing
+ 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFRD-48
+GBSCAF as an AWS service | 3.7 | Execute Selenium Tests in Docker Environment
+ 
+Issue Type: Task
+Priority: Medium
+GBSCAFDEV-600
+GBSCAF Python Compass Automation Creation(Feature file, step file, config file, configuationReader)
+GBSCAF Mainframe Python
+Assignee: Sankar, Balachander (Chennai) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFRD-53
+GBSCAF as an AWS service | 0.5 | Artifact and Log Storage Planning
+GBSCAF as an AWS service | 0 | Research and Evaluation for Serverless Selenium Testing Solution
+Assignee: Dube, Manish (Alpharetta) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFRD-54
+GBSCAF as an AWS service | 0.6 | Secure Access Management Design with AWS IAM
+GBSCAF as an AWS service | 0 | Research and Evaluation for Serverless Selenium Testing Solution
+Assignee: Dube, Manish (Alpharetta) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFRD-55
+GBSCAF as an AWS service | 0.7 | Nexus Access Control Research
+GBSCAF as an AWS service | 0 | Research and Evaluation for Serverless Selenium Testing Solution
+Assignee: Dube, Manish (Alpharetta) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFRD-57
+GBSCAF as an AWS service | 0.95 | Integrating Test Automation with Workflows
+GBSCAF as an AWS service | 0 | Research and Evaluation for Serverless Selenium Testing Solution
+Assignee: Dube, Manish (Alpharetta) 
+Issue Type: Epics
+Priority: Low
+QES-29
+GBSCAF on GitLab Runners
+Assignee: Dube, Manish (Alpharetta) 
+Issue Type: Epics
+Priority: High
+QES-30
+GenAI for Automation of UI and API tests
+Assignee: Chugh, Kritika (Alpharetta) 
+Issue Type: Epics
+Priority: Low
+QES-31
+GBSTECH - Tools Support
+ 
+Issue Type: Task
+Priority: Medium
+GBSCAFDEV-694
+GBSCAF Mainframe Python Framework Review
+GBSCAF Mainframe Python
+Assignee: Sankar, Balachander (Chennai) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFADT-285
+Python Mainframe
+GBSCAF Python
+ 
+Issue Type: Story
+Priority: High
+GBSCAFADT-288
+Telecheck - PayNow application
+GBSCAF Adoption New
+Assignee: Karuppiah, Sanguth Thalaivan (Chennai) 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFDEV-725
+release 1.3 packaging
+ 
+Issue Type: Epics
+Priority: Not Triaged
+QES-32
+PR23085744 - Update FD150 Buypass app for Visa Fleet 2.0
+ 
+Issue Type: Task
+Priority: High
+GBSCAFDEV-744
+GBSCAF Mainframe - Job status check and wait and scroll page
+GBSCAF Mainframe Python
+Assignee: R, Damien Matthew (Chennai) 
+Issue Type: Task
+Priority: Not Triaged
+GBSCAFDEV-767
+Saucelab enhancements - Test case name, scenario name for test runs in Saucelab
+Analyze Sauce Lab implementation for RC Web
+Assignee: Dube, Manish (Alpharetta) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFDEV-772
+GBSCAF format file naming
+GBSCAF Python Web
+Assignee: Sankar, Balachander (Chennai) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFDEV-773
+Wrapper, Utility and Reusable method
+GBSCAF Python Web
+Assignee: Sankar, Balachander (Chennai) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFDEV-774
+GBSCAF Exception Handling and log4j(logging) Handling
+GBSCAF Python Web
+Assignee: Sankar, Balachander (Chennai) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFDEV-775
+Configuration file handling
+GBSCAF Python Web
+Assignee: Sankar, Balachander (Chennai) 
+Issue Type: Story
+Priority: Not Triaged
+GBSCAFDEV-776
+Framework level before scenario, step and after scenario, step handling
+GBSCAF Python Web
+Assignee: Sankar, Balachander (Chennai) 
 Issue Type: Story
 Priority: Not Triaged
 GBSCAFDEV-777
@@ -1076,9 +1149,3 @@ GBSCAFADT-308
 Billing and Reporting - MAPS
 GBSCAF Adoption New
 Assignee: Karuppiah, Sanguth Thalaivan (Chennai) 
-Create issue Create issue
-To move the Releases, select with Space and move with Ctrl/Command + Arrow keys
-Jeyaraman, Jeyalakshmi (Chennai)
-0	Story Points
-1	Issues
-
