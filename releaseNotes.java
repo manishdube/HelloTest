@@ -1,3 +1,87 @@
+# Release 1.5
+Created by Dube, Manish (Alpharetta), last modified by R, Damien Matthew (Chennai) about 4 hours ago
+
+**Product Name:** 
+
+  
+
+**Product Description:** 
+
+ GBS Continuous Automation Framework 
+
+**Release Version:** 
+
+ 1.5 
+
+**Release Date:** 
+
+
+
+**Prepared by:** 
+
+Dube, Manish (Alpharetta) 
+
+**Reviewed by:** 
+
+Dube, Manish (Alpharetta)  
+Karuppiah, Sanguth Thalaivan (Chennai)  
+P, Jeeva (Chennai)  
+Ragavan P, Veera (Chennai)  
+Sankar, Balachander (Chennai)  
+S P, Kolunthuvelu (Chennai)  
+DURAIKRISHNAN, S. (Chennai)  
+Kannan, Gopalsamy (Chennai)  
+
+**Authorized by:** 
+
+Gupta, Vipul (Alpharetta) 
+
+**Prerequisite:** 
+
+Any previous changes made inside the GBSCAF folder will be overwritten during this upgrade as it is a dev folder – To mitigate the issue, take a backup of your current GBSCAF folder and resolve the conflicts manually. 
+Supported JDKs - JDK 11 or above
+
+**New Features and Enhancements:**
+
+**GBSCAF Java**
+
+1. OTP reading for Multifactor Authentication with API
+
+**GBSCAF Python**
+
+1. Framework Refactoring to make it compatible with GBSCAF Principles
+2. PTS Functionality Automation POC
+3. Enhanced Test Data Management
+4. FTP File Transfer from Mainframe to Local Validation
+
+
+**Known Issues:**
+
+No known issues at the time of release. Any issues encountered should be reported to the GBSCAF development team for resolution in future updates.
+Please reach out to DL-NA-GBSTech-QE-Support in case of any queries related to GBSCAF.
+
+
+**Stories Delivered:**
+
+1. GBSCAFDEV-782 - GBSCAF Java CAPCHA reading - Gopal
+2. GBSCAFDEV-785 - GBSCAF Java barcode reading - Gopal
+3. GBSCAFDEV-728 - GBSCAF Java OTP reading and handling - Velu
+4. GBSCAFDEV-734 - GBSCAF Java File uploading method to push files (Attachments) to a Web page - Velu
+5. GBSCAFADT-302 - GBSCAF Java Zephyr log file attachment for failed executions - Sangu
+6. GBSCAFDEV-760 - GBSCAF Java Saucelab enhancements - Test case name, scenario name - Durai
+7. GBSCAFDEV-762 - GQSXML Java integration to Zephyr - Rapid Connect project - Jeeva
+8. GBSCAFDEV-714 - GBSCAF Python - PTS functionality automation - Bala
+9. GBSCAFDEV-797 - Adding Certificate Configuration while doing API call - Velu
+10. FDPOS-3820 - Parallel thread execution capabilities with GBSCAF - Durai
+11. GBSCAFDEV-743 - GBSCAF Python - Restructuring the framework to bring it closer to GBSCAF-Java - Damien
+12. GBSCAFDEV-798 - GBSCAF Python - Use dictionary for YAML file data - Damien
+13. GBSCAFDEV-809 - GBSCAF Python - Zephyr Scale integration - Bala
+14. GBSCAFDEV-806 - GBSCAF Python - Share data across test scenarios - Damien
+15. GBSCAFDEV-808 - FTP
+
+
+
+
 1. use this as the confluence format --> Release 1.4
 Created by Dube, Manish (Alpharetta), last modified by Kannan, Gopalsamy (Chennai) on May 20, 2024
 Product Name: 
