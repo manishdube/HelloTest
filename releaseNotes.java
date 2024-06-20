@@ -1,3 +1,56 @@
+
+Here is a list of features developed based on the commit messages provided:
+
+1. **Zephyr Integration:**
+   - Initial integration.
+   - Upload failure attachments.
+   - Upload log files and existing test cycle execution.
+   - Zephyr test case creation.
+   - Zephyr naming convention.
+   - Zephyr code cleanup.
+
+2. **Schema Validation:**
+   - Request schema validation method creation.
+
+3. **Configuration Management:**
+   - Handling Gpath using YAML file.
+   - Configuration and reading values from CSV.
+   - Chrome driver temporary solution.
+   - DataHelper modifications based on review comments.
+   - Configuration structure change for rerunning failure scenarios.
+   - ProtectConfigFile to protect Config.yaml during code merge.
+   - Wait time configuration and element highlighter.
+   - Solution for driver changes.
+   - Nexus integration.
+   - Default profile added in POM.xml file.
+   - Code cleanup.
+
+4. **API Enhancements:**
+   - API steps and utilities updates.
+   - API wrapper methods addition.
+   - Log info update with Report portal.
+   - Push log to Report portal.
+   - Password encryption updates.
+   - Fetch search results from Splunk.
+
+5. **Test Automation Enhancements:**
+   - GWT format validations.
+   - Access modifiers updated.
+   - Adding new steps for explicit wait.
+   - Extent report and PDF report with timestamp.
+   - Protect file plugin.
+   - Retry failed scenarios.
+   - Mobile execution changes for iOS and Android.
+   - Selenium-remote-driver dependency update.
+
+6. **Reporting Enhancements:**
+   - Modified extent report and PDF report with timestamp.
+   - Report structure changes.
+   - Spark report changes.
+   - Report plugin dependency issue fix.
+
+If you need more detailed descriptions or additional context for any of these features, feel free to ask!
+
 jeeva.p's avatar
 GBSCAF|GBSW-140782 | Zephyr Integration
 jeeva.p authored 9 months ago
