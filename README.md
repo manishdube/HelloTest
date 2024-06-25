@@ -1,23 +1,75 @@
 
-### Comparison of Service Virtualization Tools for Selenium Test Automation
+Principal Engineer – Software – Sales and Marketing 
+Atlanta, GA · Reposted 3 days ago · 4 applicants
+On-siteMatches your job preferences, workplace type is On-site.  Full-timeMatches your job preferences, job type is Full-time.  Mid-Senior level
+10,001+ employees · Motor Vehicle Manufacturing
+4 school alumni work here
+Skills: SOAP, Software Development, +8 more
+See how you compare to 4 applicants. Retry Premium for $0
 
-| **Aspect**             | **Postman Mock Feature**                                                     | **AWS (API Gateway & CloudFormation)**                                               | **WireMock**                                     | **MockServer**                                  |
-|------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| **Setup Ease**         | Simple setup with an intuitive UI. Mocks can be created quickly.             | Requires knowledge of AWS services and YAML. Setup involves multiple steps.          | Moderate setup complexity; requires some coding.| Moderate setup complexity; requires some coding.|
-| **Integration**        | Easily integrates with Postman collections and environments.                 | Integrates well with other AWS services and can be part of CI/CD pipelines.          | Integrates with Java and other testing frameworks.| Integrates with Java and other testing frameworks.|
-| **Scalability**        | Suitable for small to medium-scale projects.                                 | Highly scalable, suitable for large-scale projects and enterprise environments.      | Scalable but best suited for medium-scale projects.| Scalable but best suited for medium-scale projects.|
-| **Maintenance**        | Easy to maintain through Postman's UI.                                       | Requires maintenance of CloudFormation templates and API Gateway configurations.     | Requires regular updates to mock configurations. | Requires regular updates to mock configurations.|
-| **Realism of Mocks**   | Provides realistic responses and can handle various scenarios.               | Highly customizable, can simulate complex behaviors with detailed configurations.    | Provides realistic HTTP mocks.                   | Provides realistic HTTP mocks.                  |
-| **Performance Impact** | Minimal performance impact for small to medium projects.                     | Efficient for large-scale and high-load scenarios.                                   | Efficient for medium-scale use.                  | Efficient for medium-scale use.                 |
-| **Error Handling**     | Supports basic error simulation.                                             | Advanced error handling and detailed response configurations possible.               | Supports detailed error handling.                | Supports detailed error handling.               |
-| **Cost**               | Free with Postman account.                                                   | Potential cost involved with AWS usage, though it can be minimal at low usage levels.| Open-source and free.                            | Open-source and free.                           |
-| **Documentation**      | Extensive documentation and community support available.                    | Comprehensive AWS documentation and support.                                         | Good documentation and community support.        | Good documentation and community support.       |
+Apply
 
-### Key Takeaways
-- **Postman**: Ideal for quick setup and small to medium projects. It offers an intuitive interface for creating and managing mocks easily.
-- **AWS (API Gateway & CloudFormation)**: Best suited for large-scale, enterprise-level projects needing high scalability and advanced configurations.
-- **WireMock** and **MockServer**: Both are excellent for projects requiring detailed and realistic HTTP mocks, with moderate complexity in setup and maintenance.
+Saved
+Saved Principal Engineer – Software – Sales and Marketing  at Genuine Parts Company
+Share
+Show more options
+Principal Engineer – Software – Sales and Marketing
+Genuine Parts Company · Atlanta, GA (On-site)
 
-Implementing service virtualization using these tools can significantly enhance the efficiency and reliability of Selenium-based test automation [oai_citation:1,Emulate your test environment using a service virtualization on AWS | Integration & Automation](https://aws.amazon.com/blogs/infrastructure-and-automation/emulate-test-environment-using-service-virtualization/) [oai_citation:2,service virtualization | Integration & Automation](https://aws.amazon.com/blogs/infrastructure-and-automation/tag/service-virtualization/).
+Apply
 
-(Note: Advice intended for US audience, and I'm not a financial advisor.)
+Saved
+Saved Principal Engineer – Software – Sales and Marketing  at Genuine Parts Company
+Show more options
+About the job
+Company Background
+
+Genuine Parts Company (“GPC” or the “Company”), founded in 1928 and based in Atlanta, Georgia, is a leading specialty distributor engaged in the distribution of automotive and industrial replacement parts and value-added services. The Company operates a global portfolio of businesses with more than 10,000 locations across the world. GPC has approximately 50,000 global employees. The Company has operations in the United States, Canada, Mexico, Australia, New Zealand, Indonesia, Singapore, France, the U.K., Germany, Poland, the Netherlands, Belgium, Spain and China.
+
+Position Purpose
+
+Seeking world-class talent to join the world’s leading distributor of automotive and industrial replacement parts and value-added services operating 5,500+ locations and servicing more than 20,000 locations in the U.S and Canada. Specifically, this role will function as the Principal Engineer of a newly formed team of Engineers to build the next generation commerce platforms at GPC. Working with a highly talented team, you'll play a key role to build and run one of the world’s largest automotive and industrial replacement parts operations.
+
+This is an engineering leadership role with responsibility for enabling cloud transformation and execution for GPC’s unified commerce platforms.
+
+This individual must be a technologist & engineer at heart and be comfortable in enabling new technology and being hands on with the execution of the strategy. She/he must exhibit a deep understanding of modern technology stack and agile delivery models, demonstrated focus on customer experience, and must have a proven track record of modernizing technologies.
+
+Close collaboration and alignment with business teams, application development teams and security will be required. As such, exceptional abilities in building and maintaining strong working relationships and organizational savvy will be required. High level communication and presentation skills are required. Ability to attract, retain, and develop engineering talent will be critical.
+
+Responsibilities
+
+Technical responsibility of architecture roadmap and vision of the Sales and Marketing domain and platforms.
+Leads the development and build out of the unified commerce systems for the entire Sales & Marketing domain.
+Reviews business context for solutions to company challenges as well as defining the vision and requirements for the solution, recommending potential options, selecting the most optimal solution, and the development of a roadmap for the selected solution
+Initiate both group and one-on-one meetings with Product Managers and senior management to gain a clear understanding of business drivers and functional requirements.
+Lead design and architecture discussions for IT platforms engaging with other staff engineers, engineering teams across different business units to ensure secure and scalable solutions.
+Directs the identification and recommendation of appropriate solutions, upgrades, replacements, or decommissioning options incorporating business and technology productivity, usability, and total cost of ownership.
+Communicates the architecture to the stakeholders and collaborates and coordinates with existing domain architects in the formalization and adoption of IT standards and procedures.
+Lead architecture, design and code reviews with engineering teams
+Provides oversight on delivery to ensure industry best practices, standards, automation, quality, timeliness, operational readiness, continuous improvement and cost-effective solutions.
+Provide technical leadership and guidance to lead engineers and the technical team within a domain.
+Other duties as assigned
+
+Location:
+
+GPC has two work locations to choose from, Duluth or Atlanta office.
+We offer a Flexible Work Policy that permits eligible employees to work a hybrid remote schedule.
+
+Desired Qualifications & Experiences
+
+Degree in Computer Science or Engineering fields, or equivalent experience
+10 (12+ preferred) years’ experience in software engineering & technology
+10+ years’ Experience in development, administration and security of Salesforce’s Sales and Service Cloud.
+Excellent oral and written communication
+Analytical and problem-solving skills
+Comfortable with ambiguity and time spent outside of comfort zone acquiring new skills.
+Technically creative and open-minded
+Must have experience in enterprise level software development experience (non-academic) with demonstrable experience in APEX, Lightning Components, Salesforce Connect, REST, SOAP, SOQL, workflow.
+Experience with Salesforces CRM Analytics platform.
+Experience with Spring Cloud, Spring Boot, Microservices, Kafka, NoSQL, Containerization and Security a plus.
+Experience in building and operating applications running on public cloud environments (AWS, Azure, GCP) including Dev-Sec-Ops practices.
+Experience running high throughput low latency end user-facing microservices a plus.
+
+Not the right fit? Let us know you're interested in a future opportunity by joining our Talent Community on jobs.genpt.com or create an account to set up email alerts as new job postings become available that meet your interest!
+
+GPC conducts its business without regard to sex, race, creed, color, religion, marital status, national origin, citizenship status, age, pregnancy, sexual orientation, gender identity or expression, genetic information, disability, military status, status as a veteran, or any other protected characteristic. GPC's policy is to recruit, hire, train, promote, assign, transfer and terminate employees based on their own ability, achievement, experience and conduct and other legitimate business reasons.
