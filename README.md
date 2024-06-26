@@ -1,82 +1,30 @@
-Business, Computer, and Engineering Teacher
-Job Details
-Job Location
-Marist School - Atlanta, GA
-JOB TITLE:                              Business, Computer, & Engineering Teacher
 
-DEPARTMENT:                        Business, Computer, & Engineering
+first month- 
+2 weeks was a wash with limoted access to systems 
+No KT plan in place. 1 intro video was provided
+first month - tasked with Creating a performance testing strategy based on a ppt deck that was doing it incorrectly using selenium for UI tests
+Second month until month 3 - tasked with creating an strategy for GBSCAF to on AWS, without much requirements and communication i was tasked with comming up with a strategy, implementation plan, tactical tasking plan and everything in between and was asked to deliver on this failing project which was started 8 months ago. 
+Was able to deliver the strategy and detailed plan after many revisions and re-inventing of the concepts and finally able to land on serverless Gitlan runners on AWS.
+Significant work was performed on the Gitlab runners scalability front. 
 
-REPORTS TO:                         Department Chair, Principal
+Release 1.2 delivered
+Release 1.3 delivered
+Release 1.4 delivered
+Release 1.5 delivered
+Release 1.6 ongong
 
-FLSA STATUS:                        Full Time; Salaried; 10-month; Exempt                                                            
+1. A checklist for us to take with us to the Adoption teams' sync up. Priority: High [ETA - 6/18]
+2. Postman Service virtualization for GBSCAF concept and diagram Priority: High [ETA - 6/14]
+3. Jira clean-up for GBSCAF Java Priority: High [ETA – 4/30]
+4. Jira 1.6 on Jira Boards Priority: High [ETA - 6/21]
+5. Release testing for 1.5 Priority: High [ETA - 6/20]
+6. Release notes for 1.5 Priority: High [ETA - 6/20]
+7. Ping ID GBSCAF solution discovery Priority: Low [To be Owned by Velu/Gopal]
+8. serverless Gitlab Runners Priority: Low [To be Owned by Sanguth]
+9. EC2 gitlab runners Priority: Low [To be Owned by Sanguth]
+10. IAC discovery for gitlab runners [Dependent on #8 & #9]
 
-DATE:                                       August 1, 2024
 
- 
 
-MISSION
 
-The mission of Marist School is to form the whole person in the image of Christ through instruction grounded in religious values, the teachings of the Catholic Church, and the spirit of the Society of Mary. This mission is advanced through communal pursuit of excellence in academic, religious, extracurricular, leadership, and service programs.
-
- 
-
-DIVERSITY STATEMENT
-
-Marist School seeks to foster a community of inclusion that respects the dignity of the individual in the areas of age, gender, religion, ability, socioeconomic status, race, ethnicity, culture, and sexual orientation. This obligation to build a community of inclusion is based on Sacred Scripture, the Teachings of the Catholic Church, and the spirit and traditions of the Society of Mary. All members of the Marist School community are responsible for advancing an understanding of and respect for diversity.
-
- 
-
-SUMMARY
-
-The full-time faculty member is hired by the Principal and reports additionally to the Department Chair and Academic Dean. Areas of preferred teaching experience include computer science, financial management, marketing, accounting, and robotics in grades 7th – 12th.
-
- 
-
-SCOPE OR RESPONSIBILITY
-
-This position is responsible for the instruction and evaluation of students, providing students feedback, maintaining good order in the classroom by managing student conduct, taking daily attendance, and providing a moral and ethical role model both on and off campus.
-
- 
-
-ESSENTIAL FUNCTIONS     
-
-Instruct students in a manner that is faithful to the Catholic Church and its teachings.
-Deliver essential content as outlined in the course description and required by the Department Chair.
-Evaluate students frequently using best practices of authentic assessments, both formative and summative.
-Give frequent feedback to students regarding their progress in the course.
-Keep grades up-to-date in the online grading software.
-Differentiate instruction based on student learning styles and needs.
-Provide assistance and intervention for students who would benefit from it.
-Attend to parent concerns and communicate with parents when their child is struggling in a manner that is professional and compassionate.
-Maintain positive rapport with students
-Keep current in areas of pedagogy, skills, and content.
-Set annual professional development goals aimed at advancing the quality of teaching and learning.
-Embrace a spirit of collaboration with colleagues.
-Serve as a student Advisor (grades 9-12) or a Foundations House Leader (grades 7-8).
-Interact professionally with adults and students within the guidelines of the Boundaries Policy.
-Maintain professional standards of dress and grooming.
-Be present in a classroom or designated area during the assigned times from 8:00am-3:30pm as well as at other times outside of the school day as required by the Principal.
-Maintain a safe and orderly environment.
-Record daily student attendance.
-Attend regular meetings, departmental, faculty, etc.
-Be present at school masses and assemblies and supervise students.
- 
-
-RISK MANAGEMENT STANDARDS
-
-Specific abuse risk management standards are summarized as follows.
-
-Adhere to boundaries with students.
-Attend required abuse risk management training.
-Report suspicious and inappropriate behaviors.
-Follow mandated abuse reporting requirements.
-Adhere to job-specific abuse management responsibilities.
- 
-
-QUALIFICATIONS/REQUIREMENTS
-
-A Bachelor’s degree from an accredited college in education or in the primary teaching area is required. A Master’s degree is preferred. Transcripts must be submitted.
-A minimum of two (2) references.
-A completed background check.
-A completed drug and illegal substances screen.
-
+provide an organised view to the above using corporate language and mid year review
