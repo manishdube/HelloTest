@@ -1,4 +1,24 @@
 
+describe peroformance tuning efforts in bullets for a resume based on the above requirements so the CV stands out.
+
+  Experity Health: 
+  The main elements of the tech stack that were performance tuned were:
+
+1. desktop based EMR system with dedicated citrix based health care data protection layers in place. 
+2. item 1 PROD infrastructure sizing optimization was performed which resulted in savings of over 600k,
+3. PODs were created that contained all the components of a vertical slice of the minimum viable product with all the relevant feautres 
+4. Sizing and capacity per component as it sits in the cloud services was conducted. performnace testing was condicted with measurements across the components to qualify the sizing.
+5. Tools such as jmeter, loader, flood.io, Artillery and several open source load testing platforms were utilised.
+6. Talk about the key metrics that were reviewed and used to make these measurements. Connections per sec, etc etc. 
+7. Talk about the iterative approach and how this perforamcen improvement strategy was implemented for monthly load bursts due to financial processign and usage ot the entire suite of applucations for complete processing. 
+  
+
+  Genesis Financial Systems:
+
+
+
+
+
 Software Engineer Lead - Platform and Performance 
 Duluth, GA · 1 week ago · 8 applicants
 On-siteMatches your job preferences, workplace type is On-site.  Full-timeMatches your job preferences, job type is Full-time.
