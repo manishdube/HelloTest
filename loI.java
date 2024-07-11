@@ -1,4 +1,35 @@
 
+Feature Checklist
+Web
+Api
+DB - Oracle
+DB - DB2
+Saucelabs
+Zephyr
+Parallel Execution
+Cross broswer Execution
+Report Portal (initial)
+Karate
+Password Encryption
+Test Data handling - excel
+Test Data handling - Yml
+Gitlab runner setup - Windows
+barcode scanning
+CAPTCHA Functionality
+OTP mail thru UI
+Extent Report
+Splunk
+retrevial of Failure cases
+Failure screenshot
+Execution logs
+-Appli tools
+-Mobile 
+- Extent report (html, pdf)
+- Cucumber report
+- Video recording
+- Test data handling (csv)
+
+
 Write me a cover letter indicating my interest and expertise in enterprise wide performance optimizations for systems with strategies for D-day preo for 
  events such as black friday and amazon prime day as it pertains to online shopping. Do also honour the current employees of Macys who i have'd a chance to interact and spend hours with each of them individually understanding the tech stack and the tasks at hand. 
   
