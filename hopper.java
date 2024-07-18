@@ -1,4 +1,90 @@
 
+hopper
+
+Company
+
+Hopper Media
+
+Q Find booking
+
+English▾
+
+Travel Products
+
+Download the app
+
+Sign in
+
+$20.00
+
+Return
+
+Review itinerary
+
+Customize
+
+Trip review
+
+Departure
+
+Payment
+
+Contact Info
+
+Traveler info
+
+< Back
+
+Customize your trip
+
+Checkout Breakdown
+
+hopper
+
+Provided by
+
+Premium Disruption Assistance
+
+$100
+
+Basic Doing
+
+If your flight is canceled or delayed for 1+ hours on the day of travel
+
+Taxes & Fees
+
+$15
+
+We'll cover the cost of a new flight on any airline (up to $2,000 per traveler)
+
+Alternatively, get a $<XXX> cash refund per traveler, and keep your original reservation
+
+$115
+
+Total
+
+Get help using our self-serve tools or speak to an agent!
+
+How it works
+
+View Terms
+
+Continue
+
+Add protection against delays + cancellations
+
+Popular
+
+$<XX.00>/traveler
+
+No, thanks
+
+I don't want to add this option
+
+
+
+
+
 Test Suite	Test Case	Description	Priority	Test Type	Frequency	Handling Dynamic Data	Steps	Expected Result
 Price Accuracy Test Suite	Flight Price Display	Verify flight price ($20.00) matches backend data.	High	Automated Functional	With every build, nightly	Mock API responses for price data.	1. Open the Offer Screen. 2. Retrieve the flight price displayed. 3. Compare the displayed price with the backend data using a mock API response.	The displayed flight price should match the mocked backend data value.
 Price Accuracy Test Suite	Coverage Option Price Display	Validate that the price for 'Premium Disruption Assistance' ($100) is correct.	High	Automated Functional	With every build, nightly	Use stubs for coverage option prices.	1. Open the Offer Screen. 2. Retrieve the price for 'Premium Disruption Assistance'. 3. Compare the displayed price with the expected value using stubs.	The displayed price for 'Premium Disruption Assistance' should be $100.
