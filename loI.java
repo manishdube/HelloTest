@@ -1,4 +1,53 @@
 
+Group ID	Artifact ID	Version	Commentary
+io.cucumber	cucumber-java	7.2.3	Used and properly declared
+io.cucumber	cucumber-junit	7.0.0	Duplicate dependency found in analysis
+io.appium	java-client	9.0.0	Used and properly declared
+org.json	json	20231013	Used and properly declared
+org.apache.logging.log4j	log4j-core	2.20.0	Used and properly declared
+org.apache.logging.log4j	log4j-api	2.20.0	Version conflict found in analysis
+me.jvt.cucumber	reporting-plugin	7.1.0	Used and properly declared
+io.cucumber	cucumber-testng	7.0.0	Duplicate dependency found in analysis
+commons-codec	commons-codec	1.15	Used and properly declared
+tech.grasshopper	extentreports-cucumber7-adapter	1.14.0	Used and properly declared
+io.rest-assured	rest-assured	4.4.0	Used and properly declared
+com.applitools	eyes-selenium-java5	5.15.0	Used and properly declared
+org.seleniumhq.selenium	selenium-java	4.22.0	Version conflict found in analysis
+com.sun.jersey	jersey-client	1.19.3	Unused declared dependency
+com.epam.reportportal	agent-java-cucumber6	5.1.2	Used and properly declared
+com.epam.reportportal	logger-java-log4j	5.1.8	Unused declared dependency found in analysis
+com.epam.reportportal	client-java	5.1.11	Used and properly declared
+com.epam.reportportal	agent-java-testng	5.1.2	Unused declared dependency
+org.yaml	snakeyaml	2.2	Unused declared dependency found in analysis
+com.squareup.okhttp3	okhttp	3.14.9	Used and properly declared
+com.jayway.jsonpath	json-path	2.7.0	Used and properly declared
+com.googlecode.json-simple	json-simple	1.1.1	Used but undeclared dependency found in analysis
+com.google.code.gson	gson	2.10.1	Used and properly declared
+mysql	mysql-connector-java	8.0.33	Used and properly declared
+javax.mail	javax.mail-api	1.6.2	Used and properly declared
+com.sun.mail	smtp	1.6.0	Used and properly declared
+com.sun.mail	javax.mail	1.6.0	Duplicate dependency
+com.intuit.karate	karate-apache	0.9.6	Version conflict with another dependency
+com.intuit.karate	karate-core	1.4.1	Used and properly declared
+com.intuit.karate	karate-junit4	1.0.1	Used and properly declared
+org.apache.poi	poi-ooxml	4.1.2	Scope should be changed to 'test'
+org.apache.poi	poi	4.1.2	Used and properly declared
+org.apache.tika	tika-parser-pdf-module	2.7.0	Unused declared dependency
+org.apache.tika	tika-core	2.7.0	Used and properly declared
+net.snowflake	snowflake-jdbc	3.13.31	Used and properly declared
+io.rest-assured	json-schema-validator	5.3.1	Used and properly declared
+com.google.guava	guava	31.0.1-jre	Used but undeclared dependency found in analysis
+com.googlecode.owasp-java-html-sanitizer	owasp-java-html-sanitizer	20220608.1	Used and properly declared
+org.example	Encode-Decode	1.0-20240220.161324-1	Used and properly declared
+com.github.stephenc.monte	monte-screen-recorder	0.7.7.0	Used and properly declared
+com.oracle.database.jdbc	ojdbc8	23.2.0.0	Unused declared dependency
+com.google.zxing	core	3.5.3	Used and properly declared
+com.google.zxing	javase	3.5.3	Duplicate dependency
+net.sourceforge.tess4j	tess4j	5.11.0	Unused declared dependency found in analysis
+org.testng	testng	7.10.2	Used and properly declared
+
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
